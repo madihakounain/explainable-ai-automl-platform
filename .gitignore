@@ -1,0 +1,100 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# Flask
+instance/
+.webassets-cache/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs
+*.log
+
+# SQLite database
+*.sqlite3
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model files
+*.pkl
+*.joblib
+*.h5
+*.sav
+
+# Matplotlib cache
+.matplotlib/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Temporary files
+tmp/
+temp/
+
+# Node modules (if frontend tooling used)
+node_modules/
+
+# Vercel
+.vercel/
+
+# Uploaded files
+uploads/
+
+# Generated reports/images
+reports/
+output/
+generated/
+
+# Secrets / keys
+*.pem
+*.key
+
+# Cache
+.cache/
+
+# Runtime files
+*.pid
+*.seed
+
+# mypy
+.mypy_cache/
+
+# Ruff
+.ruff_cache/
+
+# pyright
+.pyright/
+
+# Mac/Linux hidden files
+.*.swp
+.*.swo
